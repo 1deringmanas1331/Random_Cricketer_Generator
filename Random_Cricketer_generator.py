@@ -1,4 +1,4 @@
-# Import random Lib packages
+# Import random Library Packages
 import random
 
 # Enter sample first and last names of cricketers
