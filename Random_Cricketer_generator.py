@@ -9,8 +9,8 @@ last_names = ["Kohli", "Tendulkar", "Sharma", "Dhoni", "Williamson", "Root", "Sm
 random_first_name = random.choice(first_names)
 random_last_name = random.choice(last_names)
 
-# Combines the first and last name to generate the cricketer's name
+# Combines the first na and last name to generate the cricketer's name
 random_cricketer_name = f"{random_first_name} {random_last_name}"
 
-# Prints the random cricketer's name
+# Prints the random cricketer's name 
 print(random_cricketer_name)
